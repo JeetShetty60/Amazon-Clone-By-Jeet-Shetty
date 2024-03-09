@@ -1,0 +1,259 @@
+@import url('https://fonts.cdnfonts.com/css/amazon-ember');
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Amazon Ember',Arial, sans-serif;
+
+}
+body {
+    overflow-x: hidden;
+}
+.nav {
+    background-color: #131A22;
+align-items: center;
+    display: flex;
+    padding: 10px;
+}
+.logo {
+    height: 50px;
+    width: 130.73px;
+}
+.heading {
+    color: #CCCCCC;
+    font-size: 12px;
+    padding-left: 10px;
+}
+.subheading{
+    color: white;
+    font-size: 14px;
+    margin:0px 0px 1px;
+    font-weight: bold;
+
+}
+.box-2-items {
+    padding-left:10px;
+}
+.box-3-items{
+    display: flex;
+  padding-left: 90px;
+    gap: 0px;
+   align-items: center;
+}
+.all {
+    background-color: #E6E6E6;
+    height: 38px;
+    width: 45px;
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+}
+.bar {
+    height: 38px;
+    width: 450px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    border-top-right-radius: 1%;
+    border-bottom-right-radius: 1%;
+}
+.icon  {
+
+color: white;
+display: inline-block;
+font-size: 20px;
+border: 2px solid rgba(23 23 23 0.2) ;
+}
+.acc-signin{
+    color: #ffffff;
+    padding-left: 70px;
+    font-size: 12px;
+    font-weight: 700;
+}
+.acc-list{
+    padding-left: 70px;
+    font-size: 14px;
+    color: white;
+    font-weight: 900;
+}
+.box-5-items {
+    padding-left: 60px;
+    
+}
+.returns {
+    color: white;
+    font-size: 12px;
+    font-weight: 700;
+}
+.orders {
+    color: white;
+    font-size: 14px;
+    font-weight: 900;
+}
+.box-6-items {
+    padding-left: 50px;
+    color: white;
+}
+.nav {
+    height: fit-content;
+}
+.panel {
+    background-color: #232F3E;
+    height: fit-content;
+}
+.bars {
+    height: 14px;
+    width: 17px;
+    color: white;
+ 
+}
+.content {
+    padding: 10px;
+    display: flex;
+}
+.content-1{
+    color: white;
+    font-size: 14px;
+}
+.content-box-2 {
+    color: white;
+    font-size: 14px;
+font-weight: bold;
+}
+.mobiles{
+    font-weight: 100;
+}
+.sale{
+    overflow: hidden;
+    overflow-y: hidden;
+}
+.products {
+    position: relative;
+    bottom: 1170px;
+    background-color: #FFFFFF;
+border: 2px solid rgb(102, 96, 96);
+  left: 100px;
+  height: 600px;
+  width: 500px;
+  display: none;
+}
+.dotd {
+    font-style: italic;
+    position: relative;
+    left: 150px;
+    top: 15px;
+    font-size: x-large;
+    font-weight: bold;
+}
+.pan{
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    top: 30px;
+    left: 70px;
+    height: 200px;
+}
+.price-pan {
+    font-weight: bold;
+}
+.sign-in{
+    display: grid;
+place-items: center;
+margin:80px;
+
+}
+.footer-1 {
+    border: 20px solid #e3e3e3;
+}
+.recomendations {
+    font-size: 13px;
+    color: #000000;
+    position: relative;
+    bottom: 10px;
+    font-weight: 21;
+}
+.signin {
+    height: 28px;
+    width: 230px;
+    color: black;
+ border: 2px solid rgb(255, 102, 0);
+ border-radius: 5%;
+ background-color: #f3de25;
+ font-weight: bold;
+}
+.sign-in-items-3{
+    font-size: 11px;
+    font-weight: 200;
+    position: relative;
+    top: 10px;
+}
+.sign-in {
+    border: 3px solid rgba(23 23 23 0.2);
+}
+.sign-in-items-3 a {
+    text-decoration: none;
+}
+.back-to-top {
+    background-color: #232F3E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(117, 111, 111);
+}
+.back {
+    padding: 15px 0px;
+    color: white;
+    font-weight: 9.49;
+    font-size: 14px;
+}
+.footer-2{
+    background-color: #232F3E;
+    color: white;
+display: flex;
+justify-content: space-around;
+padding: 50px;
+border-bottom: 1px solid rgb(117, 111, 111);;
+
+}
+.list-item{
+    list-style: none;
+    font-size: 14px;
+    padding: 0px 0px 10px;
+}
+.know-us{
+    font-size: 16px;
+}
+.footer-3{
+    background-color: #131A22;
+    border-bottom:1px solid rgb(117, 111, 111) ;
+  
+}
+.footer-3-content-1{
+    justify-content: space-between;
+    align-items: center;
+  text-align: center;
+}
+.lower-select {
+    position: relative;
+    left: 10px;
+    bottom: 23px;
+    background:transparent;
+    color: white;
+}
+.country {
+    color: #DDDDDD;
+    padding-block: 7.2px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 12px;
+    
+}
+.footer-4{
+    background-color: #10151a;
+}
+.footer-3-all{
+    padding: 50px;
+}
+.footer-4-all{
+    padding: 20px;
+}
